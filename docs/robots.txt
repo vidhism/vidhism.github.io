@@ -1,1 +1,1 @@
-Sitemap: /flexible-jekyll/sitemap.xml
+Sitemap: https://vidhimaru.github.io/vidhimaru.github.io/sitemap.xml
